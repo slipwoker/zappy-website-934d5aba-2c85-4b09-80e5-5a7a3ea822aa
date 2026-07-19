@@ -778,7 +778,10 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
     // Preview pages are served by the current Zappy origin, which may be a
     // remote tunnel/QA host rather than this server's baked SERVER_URL.
     // Deployed sites are static and must call the public Zappy API (never localhost).
-    window.ZAPPY_API_BASE = "https://api.zappy5.com"</script>
+    window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview'))
+      ? window.location.origin
+      : "https://api.zappy5.com";
+  </script>
   
     <div class="mobile-search-panel" id="mobile-search-panel">
       <div class="search-wrapper">
@@ -794,10 +797,10 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
     </div>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -846,20 +849,20 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
     </nav>
   <main class="page-container ecommerce-page">
     
-        <section class="account-section">
+        <section class="account-section" id="account-section" style="margin-top: -163px !important; padding-top: 163px !important;">
           <div class="account-container">
             <!-- Not logged in state -->
-            <div class="account-not-logged-in" id="account-not-logged-in">
+            <div class="account-not-logged-in" id="account-not-logged-in" style="display: block;">
               <div class="account-icon">
-                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" data-element-type="icon" data-element-id="icon-1784505411996-58btqyp6w" data-icon-type="svg">
                   <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
                   <circle cx="12" cy="7" r="4"/>
                 </svg>
               </div>
-              <h1 data-i18n="ecom_notLoggedIn">לא מחובר</h1>
+              <h1 data-i18n="ecom_notLoggedIn" style>לא מחובר</h1>
               <p data-i18n="ecom_pleaseLogin">יש להתחבר כדי לצפות בחשבון</p>
-              <a href="/login" class="btn btn-primary" data-i18n="ecom_login">התחברות</a>
-            </div>
+              <p style="text-align: center !important; display: flex !important; justify-content: center !important; align-items: flex-start !important; width: 100% !important;"><a href="/login" class="btn btn-outline btn-secondary" data-i18n="ecom_login" data-element-type="button" data-element-id="btn-1784505411993-rtwj4wmmg" data-native-element="true" style="outline: none; border-color: var(--primary-color, var(--primary, #8B0000)) !important; color: var(--primary-color, var(--primary, #8B0000)) !important; background-color: transparent !important; background-image: none !important;">התחברות</a>
+            </p></div>
             
             <!-- Logged in state -->
             <div class="account-logged-in" id="account-logged-in" style="display: none;">
@@ -867,7 +870,7 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
                 <h1 data-i18n="ecom_myAccount">החשבון שלי</h1>
                 <div class="account-info">
                   <p class="account-welcome"><span data-i18n="ecom_accountWelcome">ברוך הבא</span>, <span id="account-email"></span></p>
-                  <button class="btn btn-secondary btn-sm" id="logout-btn" data-i18n="ecom_logout">התנתק</button>
+                  <button class="btn btn-secondary btn-sm" id="logout-btn" data-i18n="ecom_logout" data-element-type="button" data-element-id="btn-1784505411993-ooiw81j94" data-native-element="true">התנתק</button>
                 </div>
               </div>
               
@@ -875,17 +878,17 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
               <div class="profile-section">
                 <div class="section-header">
                   <h2 data-i18n="ecom_personalDetails">פרטים אישיים</h2>
-                  <button class="btn btn-text btn-sm" id="edit-profile-btn" data-i18n="ecom_editProfile">עריכת פרופיל</button>
+                  <button class="btn btn-text btn-sm" id="edit-profile-btn" data-i18n="ecom_editProfile" data-element-type="button" data-element-id="btn-1784505411993-sb3pyykyb" data-native-element="true">עריכת פרופיל</button>
                 </div>
                 
                 <!-- Profile Display -->
                 <div class="profile-display" id="profile-display">
                   <div class="profile-field">
-                    <span class="profile-label"><span data-i18n="ecom_name">שם</span>:</span>
+                    <span class="profile-label">שם:</span>
                     <span class="profile-value" id="profile-name">-</span>
                   </div>
                   <div class="profile-field">
-                    <span class="profile-label"><span data-i18n="ecom_phone">טלפון</span>:</span>
+                    <span class="profile-label">טלפון:</span>
                     <span class="profile-value" id="profile-phone">-</span>
                   </div>
                 </div>
@@ -901,8 +904,8 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
                     <input type="tel" id="edit-phone" placeholder="טלפון" data-i18n-placeholder="ecom_phone" />
                   </div>
                   <div class="form-actions">
-                    <button class="btn btn-primary btn-sm" id="save-profile-btn" data-i18n="ecom_saveChanges">שמור שינויים</button>
-                    <button class="btn btn-secondary btn-sm" id="cancel-profile-btn" data-i18n="ecom_cancel">ביטול</button>
+                    <button class="btn btn-primary btn-sm" id="save-profile-btn" data-i18n="ecom_saveChanges" data-element-type="button" data-element-id="btn-1784505411993-td5qnfx08" data-native-element="true">שמור שינויים</button>
+                    <button class="btn btn-secondary btn-sm" id="cancel-profile-btn" data-i18n="ecom_cancel" data-element-type="button" data-element-id="btn-1784505411993-26tnuocd2" data-native-element="true">ביטול</button>
                   </div>
                 </div>
               </div>
@@ -911,7 +914,7 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
               <div class="addresses-section">
                 <div class="section-header">
                   <h2 data-i18n="ecom_addresses">כתובות</h2>
-                  <button class="btn btn-primary btn-sm" id="add-address-btn" data-i18n="ecom_addAddress">הוסף כתובת</button>
+                  <button class="btn btn-primary btn-sm" id="add-address-btn" data-i18n="ecom_addAddress" data-element-type="button" data-element-id="btn-1784505411993-1dzaq78cu" data-native-element="true">הוסף כתובת</button>
                 </div>
                 
                 <div class="addresses-list" id="addresses-list">
@@ -924,13 +927,13 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
               <!-- Favorites Section -->
               <div class="favorites-section">
                 <h2 data-i18n="ecom_myFavorites">המועדפים שלי</h2>
-                <div class="favorites-loading" id="favorites-loading">
+                <div class="favorites-loading" id="favorites-loading" style="display: none;">
                   <div class="loading-spinner"></div>
                 </div>
-                <div class="favorites-empty" id="favorites-empty" style="display: none;">
+                <div class="favorites-empty" id="favorites-empty" style="display: block;">
                   <p data-i18n="ecom_noFavorites">אין עדיין מוצרים מועדפים</p>
-                  <a href="/products" class="btn btn-primary btn-sm" data-i18n="ecom_browseFavorites">גלו את כל המוצרים שלנו</a>
-                </div>
+                  <p class="zappy-editable"><a href="/products" class="btn btn-primary btn-sm" data-i18n="ecom_browseFavorites" data-element-type="button" data-element-id="btn-1784505411993-4k93r7l58" data-native-element="true">גלו את כל המוצרים שלנו</a>
+                </p></div>
                 <div class="favorites-grid" id="favorites-grid" style="display: none;"></div>
               </div>
               
@@ -943,8 +946,8 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
                 </div>
                 <div class="orders-empty" id="orders-empty" style="display: none;">
                   <p data-i18n="ecom_noOrders">אין עדיין הזמנות</p>
-                  <a href="/products" class="btn btn-primary" data-i18n="ecom_continueShopping">להמשך קניות</a>
-                </div>
+                  <p class="zappy-editable"><a href="/products" class="btn btn-primary" data-i18n="ecom_continueShopping" data-element-type="button" data-element-id="btn-1784505411993-8kslw84ic" data-native-element="true">להמשך קניות</a>
+                </p></div>
                 <div class="orders-list" id="orders-list" style="display: none;"></div>
               </div>
             </div>
