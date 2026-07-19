@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://te-amo-934d5aba.zappy5.app
+https://example.com
 ברוכה הבאה לעולם האופנה הקיצית של TE AMO. קולקציית בגדי קיץ תוססת, אביזרים מחמיאים וחוויית קניות שטופת שמש. היכנסי עכשיו והתאהבי בעונה החדשה.
 
 ### לוקבוק
-https://te-amo-934d5aba.zappy5.app/lookbook
+https://example.com/lookbook
 דפדפי בלוקבוק הקיץ החדש של TE AMO וגלי השראה ללוקים חמים, שילובים מפתיעים וטרנדים עכשוויים. הצטרפי למסע ויזואלי שיעיר את המלתחה שלך.
 
 ### סיפור הקיץ שלנו
-https://te-amo-934d5aba.zappy5.app/summer-story
+https://example.com/summer-story
 הצטרפי למסע אל מאחורי הקלעים של TE AMO – סיפור הקיץ שלנו נולד מאהבה לשמש, לים ולחופש. גלי את ההשראה שהופכת כל פריט לחוויה בלתי נשכחת.
 
 ### קיימות
-https://te-amo-934d5aba.zappy5.app/sustainability
+https://example.com/sustainability
 ב-TE AMO אנחנו מאמינות באופנה קיצית עם מצפון. גלי את הדרך שלנו לקיימות – בדים ידידותיים, ייצור אחראי ועיצובים שמכבדים את הסביבה. הצטרפי למהפכה הירוקה.
 
 ### צור קשר
-https://te-amo-934d5aba.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על הקולקציה החדשה או סתם בא לך להגיד שלום? צרי קשר עם TE AMO – אנחנו כאן כדי לעזור לך למצוא את הלוק הקיצי המושלם. נשמח לשמוע ממך!
 
 ### Products
-https://te-amo-934d5aba.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - TE AMO
 
 ### Cart
-https://te-amo-934d5aba.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://te-amo-934d5aba.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://te-amo-934d5aba.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://te-amo-934d5aba.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://te-amo-934d5aba.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://te-amo-934d5aba.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - TE AMO
 
 ### Category
-https://te-amo-934d5aba.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - TE AMO
 
 ### תודה - TE AMO
-https://te-amo-934d5aba.zappy5.app/thank-you
+https://example.com/thank-you
 TE AMO - תודה - TE AMO
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://te-amo-934d5aba.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://te-amo-934d5aba.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://te-amo-934d5aba.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://te-amo-934d5aba.zappy5.app/sitemap.xml
-- Robots: https://te-amo-934d5aba.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://te-amo-934d5aba.zappy5.app/llms-full.txt
-- Products (JSON): https://te-amo-934d5aba.zappy5.app/products.json
-- Products (Google Merchant RSS): https://te-amo-934d5aba.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
