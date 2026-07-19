@@ -1,17 +1,40 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T23:41:31.543Z",
+  "generated_at": "2026-07-19T23:51:19.354Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 2,
   "products": [
     {
+      "id": "d32ff399-3d7d-4b4e-8c86-49c09cc1f54a",
+      "slug": "rose-collection-hud6lk",
+      "name": "ROSE COLLECTION",
+      "name_translations": {},
+      "description": "<p><strong>ROSE COLLECTION</strong></p><p>עדינה בפרטים. עוצמתית בנוכחות.</p><p><strong>ROSE COLLECTION</strong> נוצרה למי שמעריך עיצוב נקי עם טאץ' ייחודי. בהשראת הוורד – סמל ליופי, תשוקה וביטחון – החולצה משלבת נוחות יומיומית עם סטייל על-זמני שמתאים לכל אאוטפיט.</p><p><strong>פרטים:</strong></p><ul><li>עיצוב ייחודי בהשראת הוורד</li><li>בד כותנה איכותי, רך ונעים למגע</li><li>גזרה נוחה שמתאימה ללבישה יומיומית</li><li>הדפס איכותי הנשמר לאורך זמן</li><li>משתלבת בקלות עם ג'ינס, מכנסי ברמודה או שורט&nbsp;</li></ul>",
+      "short_description": "קיים במידות S, M, L, XL, 2XL, 3XL",
+      "sku": "2",
+      "brand": "TE AMO",
+      "price": 139,
+      "base_price": 139,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784504662561-nou0qt.webp",
+        "https://example.com/assets/product-1784504672711-w9qh2b.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/rose-collection-hud6lk",
+      "categories": [],
+      "updated_at": "2026-07-19T23:49:55.441Z"
+    },
+    {
       "id": "f9b231a3-b3d8-49a6-905c-42ae55005443",
-      "slug": "angel-on-red-aomu7e",
+      "slug": "angel-on-red-69y6pu",
       "name": "ANGEL ON RED",
       "name_translations": {},
       "description": "<p><strong>ANGEL ON RED</strong></p><p>פשטות שנראית למרחוק.</p><p><strong>ANGEL ON RED</strong> משלבת בסיס לבן נקי עם לוגו אדום עוצמתי המזוהה עם TE AMO – שילוב שמייצר נוכחות בלי להתאמץ. עשויה מבד כותנה איכותי בגזרה נוחה שמתאימה לכל יום, עם עיצוב מינימליסטי שנותן ללוגו לדבר.</p>",
-      "short_description": "קיים במידות S, M, L, XL, 2XL, 3XL, 4XL",
+      "short_description": "קיים במידות S, M, L, XL, 2XL, 3XL",
       "sku": "1",
       "brand": "TE AMO",
       "price": 139,
@@ -24,9 +47,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/angel-on-red-aomu7e",
+      "url": "https://example.com/product/angel-on-red-69y6pu",
       "categories": [],
-      "updated_at": "2026-07-19T23:36:11.470Z"
+      "updated_at": "2026-07-19T23:48:55.464Z"
     }
   ]
 }

@@ -4,12 +4,180 @@
     <title>TE AMO</title>
     <link>https://example.com</link>
     <description>Product feed for TE AMO</description>
-    <lastBuildDate>Sun, 19 Jul 2026 23:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 23:51:19 GMT</lastBuildDate>
+    <item>
+      <g:id>f93259e2-26de-4cb1-9810-30c78596945f</g:id>
+      <g:title>ROSE COLLECTION - S / White</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>c06af2c1-4a21-4653-80fb-5d4f84e6ba4c</g:id>
+      <g:title>ROSE COLLECTION - S / Black</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>32b48fdf-e5cb-4727-af32-1c5cca237859</g:id>
+      <g:title>ROSE COLLECTION - M / White</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>9be8bd6c-db3f-4386-8121-87e488e88946</g:id>
+      <g:title>ROSE COLLECTION - M / Black</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>5e6c932b-7bf2-4f1c-aa1a-125b496f81b5</g:id>
+      <g:title>ROSE COLLECTION - L / White</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>ffd99f7c-1134-4fbe-a7f9-b2b0a243c0d2</g:id>
+      <g:title>ROSE COLLECTION - L / Black</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>e76ecb4b-89af-48b3-b351-dbce213a3e3c</g:id>
+      <g:title>ROSE COLLECTION - XL / White</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>2ebe2de9-e5bf-48cc-b4d4-d80a57f71473</g:id>
+      <g:title>ROSE COLLECTION - XL / Black</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>14941bdf-36e0-42bb-8498-46b6ed0c549b</g:id>
+      <g:title>ROSE COLLECTION - XXL / White</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>22fedcf7-4692-44b9-80e6-5936aabd7e4f</g:id>
+      <g:title>ROSE COLLECTION - XXL / Black</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>95da6587-6d78-444c-b76d-f91888539fe4</g:id>
+      <g:title>ROSE COLLECTION - 3XL / White</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
+    <item>
+      <g:id>03789f61-c8a7-4e42-af64-b8308a11ff32</g:id>
+      <g:title>ROSE COLLECTION - 3XL / Black</g:title>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/rose-collection-hud6lk</g:link>
+      <g:item_group_id>d32ff399-3d7d-4b4e-8c86-49c09cc1f54a</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1784504662561-nou0qt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784504672711-w9qh2b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>2</g:mpn>
+    </item>
     <item>
       <g:id>e3f32e4f-da49-45e9-a92f-8af2ef168804</g:id>
       <g:title>ANGEL ON RED - 3XL / White</g:title>
-      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL, 4XL</g:description>
-      <g:link>https://example.com/product/angel-on-red-aomu7e</g:link>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/angel-on-red-69y6pu</g:link>
       <g:item_group_id>f9b231a3-b3d8-49a6-905c-42ae55005443</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1784503206491-b325e.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1784503274469-2qjusgc.webp</g:additional_image_link>
@@ -22,8 +190,8 @@
     <item>
       <g:id>45b18afd-c59b-4f4b-b8e9-f6a334544217</g:id>
       <g:title>ANGEL ON RED - XL / White</g:title>
-      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL, 4XL</g:description>
-      <g:link>https://example.com/product/angel-on-red-aomu7e</g:link>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/angel-on-red-69y6pu</g:link>
       <g:item_group_id>f9b231a3-b3d8-49a6-905c-42ae55005443</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1784503206491-b325e.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1784503274469-2qjusgc.webp</g:additional_image_link>
@@ -36,8 +204,8 @@
     <item>
       <g:id>a780d021-2d82-46ce-aae3-fb7a641fdb68</g:id>
       <g:title>ANGEL ON RED - XXL / White</g:title>
-      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL, 4XL</g:description>
-      <g:link>https://example.com/product/angel-on-red-aomu7e</g:link>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/angel-on-red-69y6pu</g:link>
       <g:item_group_id>f9b231a3-b3d8-49a6-905c-42ae55005443</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1784503206491-b325e.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1784503274469-2qjusgc.webp</g:additional_image_link>
@@ -50,8 +218,8 @@
     <item>
       <g:id>10ddf705-18c7-4efa-b87f-90a4d7df584c</g:id>
       <g:title>ANGEL ON RED - L / White</g:title>
-      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL, 4XL</g:description>
-      <g:link>https://example.com/product/angel-on-red-aomu7e</g:link>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/angel-on-red-69y6pu</g:link>
       <g:item_group_id>f9b231a3-b3d8-49a6-905c-42ae55005443</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1784503206491-b325e.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1784503274469-2qjusgc.webp</g:additional_image_link>
@@ -64,8 +232,8 @@
     <item>
       <g:id>2078ee6f-dcd1-4c99-9554-adf70dc1ca85</g:id>
       <g:title>ANGEL ON RED - M / White</g:title>
-      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL, 4XL</g:description>
-      <g:link>https://example.com/product/angel-on-red-aomu7e</g:link>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/angel-on-red-69y6pu</g:link>
       <g:item_group_id>f9b231a3-b3d8-49a6-905c-42ae55005443</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1784503206491-b325e.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1784503274469-2qjusgc.webp</g:additional_image_link>
@@ -78,22 +246,8 @@
     <item>
       <g:id>c145acf9-b04b-423d-a77b-ebbdb259a4bb</g:id>
       <g:title>ANGEL ON RED - S / White</g:title>
-      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL, 4XL</g:description>
-      <g:link>https://example.com/product/angel-on-red-aomu7e</g:link>
-      <g:item_group_id>f9b231a3-b3d8-49a6-905c-42ae55005443</g:item_group_id>
-      <g:image_link>https://example.com/assets/product-1784503206491-b325e.webp</g:image_link>
-      <g:additional_image_link>https://example.com/assets/product-1784503274469-2qjusgc.webp</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>139.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>TE AMO</g:brand>
-      <g:mpn>1</g:mpn>
-    </item>
-    <item>
-      <g:id>e04aea53-9e1b-4773-90de-0242fb228dd0</g:id>
-      <g:title>ANGEL ON RED - 4XL / White</g:title>
-      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL, 4XL</g:description>
-      <g:link>https://example.com/product/angel-on-red-aomu7e</g:link>
+      <g:description>קיים במידות S, M, L, XL, 2XL, 3XL</g:description>
+      <g:link>https://example.com/product/angel-on-red-69y6pu</g:link>
       <g:item_group_id>f9b231a3-b3d8-49a6-905c-42ae55005443</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1784503206491-b325e.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1784503274469-2qjusgc.webp</g:additional_image_link>

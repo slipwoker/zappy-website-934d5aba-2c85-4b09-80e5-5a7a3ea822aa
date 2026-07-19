@@ -10,10 +10,6 @@
 https://example.com
 ברוכה הבאה לעולם האופנה הקיצית של TE AMO. קולקציית בגדי קיץ תוססת, אביזרים מחמיאים וחוויית קניות שטופת שמש. היכנסי עכשיו והתאהבי בעונה החדשה.
 
-### לוקבוק
-https://example.com/lookbook
-דפדפי בלוקבוק הקיץ החדש של TE AMO וגלי השראה ללוקים חמים, שילובים מפתיעים וטרנדים עכשוויים. הצטרפי למסע ויזואלי שיעיר את המלתחה שלך.
-
 ### סיפור הקיץ שלנו
 https://example.com/summer-story
 הצטרפי למסע אל מאחורי הקלעים של TE AMO – סיפור הקיץ שלנו נולד מאהבה לשמש, לים ולחופש. גלי את ההשראה שהופכת כל פריט לחוויה בלתי נשכחת.
@@ -80,15 +76,24 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 2**
+
+### ROSE COLLECTION
+https://example.com/product/rose-collection-hud6lk
+- Price: 139.00 ILS
+- Availability: In stock
+- SKU: 2
+- Brand: TE AMO
+- Description: קיים במידות S, M, L, XL, 2XL, 3XL
+- Image: https://example.com/assets/product-1784504662561-nou0qt.webp
 
 ### ANGEL ON RED
-https://example.com/product/angel-on-red-aomu7e
+https://example.com/product/angel-on-red-69y6pu
 - Price: 139.00 ILS
 - Availability: In stock
 - SKU: 1
 - Brand: TE AMO
-- Description: קיים במידות S, M, L, XL, 2XL, 3XL, 4XL
+- Description: קיים במידות S, M, L, XL, 2XL, 3XL
 - Image: https://example.com/assets/product-1784503206491-b325e.webp
 
 ---
