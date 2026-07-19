@@ -1,0 +1,108 @@
+# TE AMO — Generative Engine Optimization Map
+
+> A summer clothing store focused on seasonal fashion, offering warm-weather apparel and accessories. The business revolves around a vibrant, sun-inspired identity suited for a summer shopping experience.
+
+---
+
+## Pages
+
+### בית
+https://te-amo-934d5aba.zappy5.app
+ברוכה הבאה לעולם האופנה הקיצית של TE AMO. קולקציית בגדי קיץ תוססת, אביזרים מחמיאים וחוויית קניות שטופת שמש. היכנסי עכשיו והתאהבי בעונה החדשה.
+
+### לוקבוק
+https://te-amo-934d5aba.zappy5.app/lookbook
+דפדפי בלוקבוק הקיץ החדש של TE AMO וגלי השראה ללוקים חמים, שילובים מפתיעים וטרנדים עכשוויים. הצטרפי למסע ויזואלי שיעיר את המלתחה שלך.
+
+### סיפור הקיץ שלנו
+https://te-amo-934d5aba.zappy5.app/summer-story
+הצטרפי למסע אל מאחורי הקלעים של TE AMO – סיפור הקיץ שלנו נולד מאהבה לשמש, לים ולחופש. גלי את ההשראה שהופכת כל פריט לחוויה בלתי נשכחת.
+
+### קיימות
+https://te-amo-934d5aba.zappy5.app/sustainability
+ב-TE AMO אנחנו מאמינות באופנה קיצית עם מצפון. גלי את הדרך שלנו לקיימות – בדים ידידותיים, ייצור אחראי ועיצובים שמכבדים את הסביבה. הצטרפי למהפכה הירוקה.
+
+### צור קשר
+https://te-amo-934d5aba.zappy5.app/contact
+יש לך שאלה על הקולקציה החדשה או סתם בא לך להגיד שלום? צרי קשר עם TE AMO – אנחנו כאן כדי לעזור לך למצוא את הלוק הקיצי המושלם. נשמח לשמוע ממך!
+
+### Products
+https://te-amo-934d5aba.zappy5.app/products
+המוצרים שלנו - TE AMO
+
+### Cart
+https://te-amo-934d5aba.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://te-amo-934d5aba.zappy5.app/checkout
+תשלום
+
+### Login
+https://te-amo-934d5aba.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://te-amo-934d5aba.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://te-amo-934d5aba.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://te-amo-934d5aba.zappy5.app/product/:slug
+פרטי המוצר - TE AMO
+
+### Category
+https://te-amo-934d5aba.zappy5.app/category/:slug
+מוצרים - TE AMO
+
+### תודה - TE AMO
+https://te-amo-934d5aba.zappy5.app/thank-you
+TE AMO - תודה - TE AMO
+
+## Legal & Policy
+
+### Privacy Policy
+https://te-amo-934d5aba.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://te-amo-934d5aba.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://te-amo-934d5aba.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TE AMO
+A summer clothing store focused on seasonal fashion, offering warm-weather apparel and accessories. The business revolves around a vibrant, sun-inspired identity suited for a summer shopping experience.
+
+## Target Audience
+- צעירים אורבניים מקצועיים
+- נופשים לחוף הים
+- צרכנים מודעים לסביבה
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://te-amo-934d5aba.zappy5.app/sitemap.xml
+- Robots: https://te-amo-934d5aba.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://te-amo-934d5aba.zappy5.app/llms-full.txt
+- Products (JSON): https://te-amo-934d5aba.zappy5.app/products.json
+- Products (Google Merchant RSS): https://te-amo-934d5aba.zappy5.app/product-feed.xml
