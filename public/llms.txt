@@ -80,7 +80,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### ANGEL ON RED
+https://example.com/product/angel-on-red-aomu7e
+- Price: 139.00 ILS
+- Availability: In stock
+- SKU: 1
+- Brand: TE AMO
+- Description: קיים במידות S, M, L, XL, 2XL, 3XL, 4XL
+- Image: https://example.com/assets/product-1784503206491-b325e.webp
 
 ---
 

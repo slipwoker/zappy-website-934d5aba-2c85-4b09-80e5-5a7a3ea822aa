@@ -5822,3 +5822,16 @@ Description: TE AMO - תודה - TE AMO
 
 ---
 
+## Product Catalog
+
+### ANGEL ON RED
+URL: https://example.com/product/angel-on-red-aomu7e
+Price: 139.00 ILS
+Availability: In stock
+SKU: 1
+Brand: TE AMO
+
+ANGEL ON RED פשטות שנראית למרחוק. ANGEL ON RED משלבת בסיס לבן נקי עם לוגו אדום עוצמתי המזוהה עם TE AMO – שילוב שמייצר נוכחות בלי להתאמץ. עשויה מבד כותנה איכותי בגזרה נוחה שמתאימה לכל יום, עם עיצוב מינימליסטי שנותן ללוגו לדבר.
+
+---
+
