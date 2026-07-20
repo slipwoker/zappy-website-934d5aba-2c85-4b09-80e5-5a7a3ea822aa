@@ -2,13 +2,13 @@
 
 A summer clothing store focused on seasonal fashion, offering warm-weather apparel and accessories. The business revolves around a vibrant, sun-inspired identity suited for a summer shopping experience.
 
-Source: https://example.com
+Source: https://te-amo.zappy5.app
 
 ---
 
 ## גלי את קולקציית הקיץ המושלמת — TE AMO
 
-URL: https://example.com
+URL: https://te-amo.zappy5.app
 Description: ברוכה הבאה לעולם האופנה הקיצית של TE AMO. קולקציית בגדי קיץ תוססת, אביזרים מחמיאים וחוויית קניות שטופת שמש. היכנסי עכשיו והתאהבי בעונה החדשה.
 
 גלי את קולקציית הקיץ המושלמת — TE AMO
@@ -366,7 +366,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## הקיץ מתחיל בסיפור שלנו — TE AMO
 
-URL: https://example.com/summer-story
+URL: https://te-amo.zappy5.app/summer-story
 Description: הצטרפי למסע אל מאחורי הקלעים של TE AMO – סיפור הקיץ שלנו נולד מאהבה לשמש, לים ולחופש. גלי את ההשראה שהופכת כל פריט לחוויה בלתי נשכחת.
 
 הקיץ מתחיל בסיפור שלנו — TE AMO
@@ -712,7 +712,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## בואי נדבר קיץ — TE AMO
 
-URL: https://example.com/contact
+URL: https://te-amo.zappy5.app/contact
 Description: יש לך שאלה על הקולקציה החדשה או סתם בא לך להגיד שלום? צרי קשר עם TE AMO – אנחנו כאן כדי לעזור לך למצוא את הלוק הקיצי המושלם. נשמח לשמוע ממך!
 
 בואי נדבר קיץ — TE AMO
@@ -1046,7 +1046,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## מוצרים
 
-URL: https://example.com/products
+URL: https://te-amo.zappy5.app/products
 Description: המוצרים שלנו - TE AMO
 
 מוצרים - TE AMO
@@ -1435,7 +1435,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## עגלת קניות
 
-URL: https://example.com/cart
+URL: https://te-amo.zappy5.app/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - TE AMO
@@ -1666,7 +1666,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## תשלום
 
-URL: https://example.com/checkout
+URL: https://te-amo.zappy5.app/checkout
 Description: תשלום
 
 תשלום - TE AMO
@@ -2083,7 +2083,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## התחברות
 
-URL: https://example.com/login
+URL: https://te-amo.zappy5.app/login
 Description: התחברות לקוחות
 
 התחברות - TE AMO
@@ -2321,7 +2321,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## החשבון שלי
 
-URL: https://example.com/account
+URL: https://te-amo.zappy5.app/account
 Description: החשבון שלי
 
 החשבון שלי - TE AMO
@@ -2717,7 +2717,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## ההזמנה התקבלה!
 
-URL: https://example.com/order-success
+URL: https://te-amo.zappy5.app/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - TE AMO
@@ -2972,7 +2972,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## מדיניות החזרות
 
-URL: https://example.com/return-policy
+URL: https://te-amo.zappy5.app/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - TE AMO
@@ -3256,7 +3256,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## פרטי המוצר
 
-URL: https://example.com/product/:slug
+URL: https://te-amo.zappy5.app/product/:slug
 Description: פרטי המוצר - TE AMO
 
 פרטי המוצר - TE AMO
@@ -3489,7 +3489,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## מוצרים
 
-URL: https://example.com/category/:slug
+URL: https://te-amo.zappy5.app/category/:slug
 Description: מוצרים - TE AMO
 
 מוצרים - TE AMO
@@ -3746,7 +3746,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://te-amo.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4001,7 +4001,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://te-amo.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4266,7 +4266,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://te-amo.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -4549,7 +4549,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## תודה - TE AMO
 
-URL: https://example.com/thank-you
+URL: https://te-amo.zappy5.app/thank-you
 Description: TE AMO - תודה - TE AMO
 
 תודה - TE AMO
@@ -4762,7 +4762,7 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 ## Product Catalog
 
 ### ANGEL OF NO CRY
-URL: https://example.com/product/angel-of-no-cry-oo5dfi
+URL: https://te-amo.zappy5.app/product/angel-of-no-cry-oo5dfi
 Price: 139.00 ILS
 Availability: In stock
 SKU: 3
@@ -4773,7 +4773,7 @@ ANGEL OF NO CRY יש חולצות שנועדו למשוך מבטים – ויש 
 ---
 
 ### ROSE COLLECTION
-URL: https://example.com/product/rose-collection-v365uj
+URL: https://te-amo.zappy5.app/product/rose-collection-v365uj
 Price: 139.00 ILS
 Availability: In stock
 SKU: 2
@@ -4784,7 +4784,7 @@ ROSE COLLECTION עדינה בפרטים. עוצמתית בנוכחות. ROSE COL
 ---
 
 ### ANGEL ON RED
-URL: https://example.com/product/angel-on-red-im7tad
+URL: https://te-amo.zappy5.app/product/angel-on-red-im7tad
 Price: 139.00 ILS
 Availability: In stock
 SKU: 1

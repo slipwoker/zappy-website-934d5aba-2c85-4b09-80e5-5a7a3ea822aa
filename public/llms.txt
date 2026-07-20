@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://example.com
+https://te-amo.zappy5.app
 ברוכה הבאה לעולם האופנה הקיצית של TE AMO. קולקציית בגדי קיץ תוססת, אביזרים מחמיאים וחוויית קניות שטופת שמש. היכנסי עכשיו והתאהבי בעונה החדשה.
 
 ### סיפור הקיץ שלנו
-https://example.com/summer-story
+https://te-amo.zappy5.app/summer-story
 הצטרפי למסע אל מאחורי הקלעים של TE AMO – סיפור הקיץ שלנו נולד מאהבה לשמש, לים ולחופש. גלי את ההשראה שהופכת כל פריט לחוויה בלתי נשכחת.
 
 ### צור קשר
-https://example.com/contact
+https://te-amo.zappy5.app/contact
 יש לך שאלה על הקולקציה החדשה או סתם בא לך להגיד שלום? צרי קשר עם TE AMO – אנחנו כאן כדי לעזור לך למצוא את הלוק הקיצי המושלם. נשמח לשמוע ממך!
 
 ### Products
-https://example.com/products
+https://te-amo.zappy5.app/products
 המוצרים שלנו - TE AMO
 
 ### Cart
-https://example.com/cart
+https://te-amo.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://te-amo.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://te-amo.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://te-amo.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://te-amo.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://te-amo.zappy5.app/product/:slug
 פרטי המוצר - TE AMO
 
 ### Category
-https://example.com/category/:slug
+https://te-amo.zappy5.app/category/:slug
 מוצרים - TE AMO
 
 ### תודה - TE AMO
-https://example.com/thank-you
+https://te-amo.zappy5.app/thank-you
 TE AMO - תודה - TE AMO
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://te-amo.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://te-amo.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://te-amo.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -75,31 +75,31 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 3**
 
 ### ANGEL OF NO CRY
-https://example.com/product/angel-of-no-cry-oo5dfi
+https://te-amo.zappy5.app/product/angel-of-no-cry-oo5dfi
 - Price: 139.00 ILS
 - Availability: In stock
 - SKU: 3
 - Brand: TE AMO
 - Description: קיים במידות S, M, L, XL, 2XL, 3XL המחיר כולל משלוח לנקודת איסוף
-- Image: https://example.com/assets/product-1784508453696-t3nwai.webp
+- Image: https://te-amo.zappy5.app/assets/product-1784508453696-t3nwai.webp
 
 ### ROSE COLLECTION
-https://example.com/product/rose-collection-v365uj
+https://te-amo.zappy5.app/product/rose-collection-v365uj
 - Price: 139.00 ILS
 - Availability: In stock
 - SKU: 2
 - Brand: TE AMO
 - Description: קיים במידות S, M, L, XL, 2XL, 3XL המחיר כולל משלוח לנקודת איסוף
-- Image: https://example.com/assets/product-1784504662561-nou0qt.webp
+- Image: https://te-amo.zappy5.app/assets/product-1784504662561-nou0qt.webp
 
 ### ANGEL ON RED
-https://example.com/product/angel-on-red-im7tad
+https://te-amo.zappy5.app/product/angel-on-red-im7tad
 - Price: 139.00 ILS
 - Availability: In stock
 - SKU: 1
 - Brand: TE AMO
 - Description: קיים במידות S, M, L, XL, 2XL, 3XL המחיר כולל משלוח לנקודת איסוף
-- Image: https://example.com/assets/product-1784503206491-b325e.webp
+- Image: https://te-amo.zappy5.app/assets/product-1784503206491-b325e.webp
 
 ---
 
@@ -120,8 +120,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://te-amo.zappy5.app/sitemap.xml
+- Robots: https://te-amo.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://te-amo.zappy5.app/llms-full.txt
+- Products (JSON): https://te-amo.zappy5.app/products.json
+- Products (Google Merchant RSS): https://te-amo.zappy5.app/product-feed.xml

@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com</loc>
+    <loc>https://te-amo.zappy5.app</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/summer-story</loc>
+    <loc>https://te-amo.zappy5.app/summer-story</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/contact</loc>
+    <loc>https://te-amo.zappy5.app/contact</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/products</loc>
+    <loc>https://te-amo.zappy5.app/products</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/cart</loc>
+    <loc>https://te-amo.zappy5.app/cart</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/checkout</loc>
+    <loc>https://te-amo.zappy5.app/checkout</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/login</loc>
+    <loc>https://te-amo.zappy5.app/login</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/account</loc>
+    <loc>https://te-amo.zappy5.app/account</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/order-success</loc>
+    <loc>https://te-amo.zappy5.app/order-success</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/product/:slug</loc>
+    <loc>https://te-amo.zappy5.app/product/:slug</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/category/:slug</loc>
+    <loc>https://te-amo.zappy5.app/category/:slug</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/thank-you</loc>
+    <loc>https://te-amo.zappy5.app/thank-you</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/privacy</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.com/terms</loc>
+    <loc>https://te-amo.zappy5.app/privacy</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/accessibility</loc>
+    <loc>https://te-amo.zappy5.app/terms</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/product/angel-of-no-cry-oo5dfi</loc>
+    <loc>https://te-amo.zappy5.app/accessibility</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://te-amo.zappy5.app/product/angel-of-no-cry-oo5dfi</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/rose-collection-v365uj</loc>
+    <loc>https://te-amo.zappy5.app/product/rose-collection-v365uj</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/angel-on-red-im7tad</loc>
+    <loc>https://te-amo.zappy5.app/product/angel-on-red-im7tad</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
