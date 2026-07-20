@@ -1,17 +1,39 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T00:06:58.936Z",
+  "generated_at": "2026-07-20T01:19:06.730Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 2,
+  "count": 3,
   "products": [
     {
+      "id": "b9a3912e-b067-461f-80e9-346689b47d15",
+      "slug": "angel-of-no-cry-oo5dfi",
+      "name": "ANGEL OF NO CRY",
+      "name_translations": {},
+      "description": "<p><strong>ANGEL OF NO CRY</strong></p><p>יש חולצות שנועדו למשוך מבטים – ויש כאלה שנועדו להעביר מסר. <strong>ANGEL OF NO CRY</strong> משלבת עיצוב נועז עם משמעות עמוקה: מלאכים שמסמלים כוח, עמידה מול אתגרים והבחירה להמשיך קדימה בלי להישבר.</p><p>הגזרה האוברסייז מעניקה מראה נקי ומודרני שמתאים לכל לוק – מבילוי בערב ועד ליום רגוע עם חברים. ההדפס האיכותי והנוכחות הייחודית הופכים אותה לפריט שאי אפשר להתעלם ממנו.</p><p><strong>לא כל סיפור צריך דמעות. לפעמים הכוח האמיתי הוא פשוט להמשיך קדימה.</strong></p>",
+      "short_description": "קיים במידות  S, M, L, XL, 2XL, 3XL\nהמחיר כולל משלוח לנקודת איסוף",
+      "sku": "3",
+      "brand": "TE AMO",
+      "price": 139,
+      "base_price": 139,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784508453696-t3nwai.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/angel-of-no-cry-oo5dfi",
+      "categories": [],
+      "updated_at": "2026-07-20T00:48:01.872Z"
+    },
+    {
       "id": "d32ff399-3d7d-4b4e-8c86-49c09cc1f54a",
-      "slug": "rose-collection-hud6lk",
+      "slug": "rose-collection-v365uj",
       "name": "ROSE COLLECTION",
       "name_translations": {},
       "description": "<p><strong>ROSE COLLECTION</strong></p><p>עדינה בפרטים. עוצמתית בנוכחות.</p><p><strong>ROSE COLLECTION</strong> נוצרה למי שמעריך עיצוב נקי עם טאץ' ייחודי. בהשראת הוורד – סמל ליופי, תשוקה וביטחון – החולצה משלבת נוחות יומיומית עם סטייל על-זמני שמתאים לכל אאוטפיט.</p><p><strong>פרטים:</strong></p><ul><li>עיצוב ייחודי בהשראת הוורד</li><li>בד כותנה איכותי, רך ונעים למגע</li><li>גזרה נוחה שמתאימה ללבישה יומיומית</li><li>הדפס איכותי הנשמר לאורך זמן</li><li>משתלבת בקלות עם ג'ינס, מכנסי ברמודה או שורט&nbsp;</li></ul>",
-      "short_description": "קיים במידות S, M, L, XL, 2XL, 3XL",
+      "short_description": "קיים במידות S, M, L, XL, 2XL, 3XL\nהמחיר כולל משלוח לנקודת איסוף",
       "sku": "2",
       "brand": "TE AMO",
       "price": 139,
@@ -24,17 +46,17 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/rose-collection-hud6lk",
+      "url": "https://example.com/product/rose-collection-v365uj",
       "categories": [],
-      "updated_at": "2026-07-19T23:49:55.441Z"
+      "updated_at": "2026-07-20T00:35:02.561Z"
     },
     {
       "id": "f9b231a3-b3d8-49a6-905c-42ae55005443",
-      "slug": "angel-on-red-69y6pu",
+      "slug": "angel-on-red-im7tad",
       "name": "ANGEL ON RED",
       "name_translations": {},
       "description": "<p><strong>ANGEL ON RED</strong></p><p>פשטות שנראית למרחוק.</p><p><strong>ANGEL ON RED</strong> משלבת בסיס לבן נקי עם לוגו אדום עוצמתי המזוהה עם TE AMO – שילוב שמייצר נוכחות בלי להתאמץ. עשויה מבד כותנה איכותי בגזרה נוחה שמתאימה לכל יום, עם עיצוב מינימליסטי שנותן ללוגו לדבר.</p>",
-      "short_description": "קיים במידות S, M, L, XL, 2XL, 3XL",
+      "short_description": "קיים במידות S, M, L, XL, 2XL, 3XL\nהמחיר כולל משלוח לנקודת איסוף",
       "sku": "1",
       "brand": "TE AMO",
       "price": 139,
@@ -47,9 +69,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/angel-on-red-69y6pu",
+      "url": "https://example.com/product/angel-on-red-im7tad",
       "categories": [],
-      "updated_at": "2026-07-19T23:48:55.464Z"
+      "updated_at": "2026-07-20T00:35:18.054Z"
     }
   ]
 }

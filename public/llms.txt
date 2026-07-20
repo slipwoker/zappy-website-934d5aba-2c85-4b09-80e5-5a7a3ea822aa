@@ -14,10 +14,6 @@ https://example.com
 https://example.com/summer-story
 הצטרפי למסע אל מאחורי הקלעים של TE AMO – סיפור הקיץ שלנו נולד מאהבה לשמש, לים ולחופש. גלי את ההשראה שהופכת כל פריט לחוויה בלתי נשכחת.
 
-### קיימות
-https://example.com/sustainability
-ב-TE AMO אנחנו מאמינות באופנה קיצית עם מצפון. גלי את הדרך שלנו לקיימות – בדים ידידותיים, ייצור אחראי ועיצובים שמכבדים את הסביבה. הצטרפי למהפכה הירוקה.
-
 ### צור קשר
 https://example.com/contact
 יש לך שאלה על הקולקציה החדשה או סתם בא לך להגיד שלום? צרי קשר עם TE AMO – אנחנו כאן כדי לעזור לך למצוא את הלוק הקיצי המושלם. נשמח לשמוע ממך!
@@ -76,24 +72,33 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 2**
+**Total active products: 3**
+
+### ANGEL OF NO CRY
+https://example.com/product/angel-of-no-cry-oo5dfi
+- Price: 139.00 ILS
+- Availability: In stock
+- SKU: 3
+- Brand: TE AMO
+- Description: קיים במידות S, M, L, XL, 2XL, 3XL המחיר כולל משלוח לנקודת איסוף
+- Image: https://example.com/assets/product-1784508453696-t3nwai.webp
 
 ### ROSE COLLECTION
-https://example.com/product/rose-collection-hud6lk
+https://example.com/product/rose-collection-v365uj
 - Price: 139.00 ILS
 - Availability: In stock
 - SKU: 2
 - Brand: TE AMO
-- Description: קיים במידות S, M, L, XL, 2XL, 3XL
+- Description: קיים במידות S, M, L, XL, 2XL, 3XL המחיר כולל משלוח לנקודת איסוף
 - Image: https://example.com/assets/product-1784504662561-nou0qt.webp
 
 ### ANGEL ON RED
-https://example.com/product/angel-on-red-69y6pu
+https://example.com/product/angel-on-red-im7tad
 - Price: 139.00 ILS
 - Availability: In stock
 - SKU: 1
 - Brand: TE AMO
-- Description: קיים במידות S, M, L, XL, 2XL, 3XL
+- Description: קיים במידות S, M, L, XL, 2XL, 3XL המחיר כולל משלוח לנקודת איסוף
 - Image: https://example.com/assets/product-1784503206491-b325e.webp
 
 ---
