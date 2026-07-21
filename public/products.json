@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T20:32:27.850Z",
+  "generated_at": "2026-07-21T20:33:52.261Z",
   "base_url": "https://te-amo.zappy5.app",
   "currency": "ILS",
-  "count": 6,
+  "count": 7,
   "products": [
+    {
+      "id": "901f979d-8dbf-4dee-819e-97d2a58b5538",
+      "slug": "te-amo-pink-baby-rgkuc4",
+      "name": "TE AMO PINK BABY",
+      "name_translations": {},
+      "description": "<p><strong>חולצת המותג</strong></p>",
+      "short_description": "זמין במידות:S, M, L, XL, 2XL, 3XL\nכולל משלוח לנקודת איסוף",
+      "sku": "7",
+      "brand": "TE AMO",
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://te-amo.zappy5.app/assets/product-1784665951954-j05vt.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://te-amo.zappy5.app/product/te-amo-pink-baby-rgkuc4",
+      "categories": [],
+      "updated_at": "2026-07-21T20:33:28.032Z"
+    },
     {
       "id": "6f684d1d-5e02-49a8-8532-db637bbbdeb6",
       "slug": "te-amo-black-68ja4x",
