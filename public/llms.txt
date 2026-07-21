@@ -75,11 +75,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 8**
 
 ### MADE OF PAIN
-https://te-amo.zappy5.app/product/made-of-pain-3tss5r
+https://te-amo.zappy5.app/product/made-of-pain-5pj7sn
 - Price: 149.00 ILS
 - Availability: In stock
 - SKU: 8
 - Brand: TE AMO
+- Description: זמין במידות: S, M, L, XL, 2XL, 3XL כולל משלוח לנקודת איסוף
 - Image: https://te-amo.zappy5.app/assets/product-1784666034973-amq13.webp
 
 ### TE AMO PINK BABY
