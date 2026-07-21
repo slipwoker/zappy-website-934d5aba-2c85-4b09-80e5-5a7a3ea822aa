@@ -4,7 +4,19 @@
     <title>TE AMO</title>
     <link>https://te-amo.zappy5.app</link>
     <description>Product feed for TE AMO</description>
-    <lastBuildDate>Tue, 21 Jul 2026 20:33:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:35:06 GMT</lastBuildDate>
+    <item>
+      <g:id>070950f4-c5b0-488b-89f8-6c4f68876291</g:id>
+      <g:title>MADE OF PAIN</g:title>
+      <g:description>MADE OF PAIN</g:description>
+      <g:link>https://te-amo.zappy5.app/product/made-of-pain-3tss5r</g:link>
+      <g:image_link>https://te-amo.zappy5.app/assets/product-1784666034973-amq13.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>TE AMO</g:brand>
+      <g:mpn>8</g:mpn>
+    </item>
     <item>
       <g:id>679d569d-2766-47fa-a15e-349b8cabd8e6</g:id>
       <g:title>TE AMO PINK BABY - S</g:title>

@@ -4799,6 +4799,15 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## Product Catalog
 
+### MADE OF PAIN
+URL: https://te-amo.zappy5.app/product/made-of-pain-3tss5r
+Price: 149.00 ILS
+Availability: In stock
+SKU: 8
+Brand: TE AMO
+
+---
+
 ### TE AMO PINK BABY
 URL: https://te-amo.zappy5.app/product/te-amo-pink-baby-rgkuc4
 Price: 149.00 ILS

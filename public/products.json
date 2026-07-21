@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T20:33:59.603Z",
+  "generated_at": "2026-07-21T20:35:06.015Z",
   "base_url": "https://te-amo.zappy5.app",
   "currency": "ILS",
-  "count": 7,
+  "count": 8,
   "products": [
+    {
+      "id": "070950f4-c5b0-488b-89f8-6c4f68876291",
+      "slug": "made-of-pain-3tss5r",
+      "name": "MADE OF PAIN",
+      "name_translations": {
+        "en": "MADE OF PAIN",
+        "he": "עשוי מכאב"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": "8",
+      "brand": "TE AMO",
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://te-amo.zappy5.app/assets/product-1784666034973-amq13.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://te-amo.zappy5.app/product/made-of-pain-3tss5r",
+      "categories": [],
+      "updated_at": "2026-07-21T20:34:36.067Z"
+    },
     {
       "id": "901f979d-8dbf-4dee-819e-97d2a58b5538",
       "slug": "te-amo-pink-baby-rgkuc4",

@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 7**
+**Total active products: 8**
+
+### MADE OF PAIN
+https://te-amo.zappy5.app/product/made-of-pain-3tss5r
+- Price: 149.00 ILS
+- Availability: In stock
+- SKU: 8
+- Brand: TE AMO
+- Image: https://te-amo.zappy5.app/assets/product-1784666034973-amq13.webp
 
 ### TE AMO PINK BABY
 https://te-amo.zappy5.app/product/te-amo-pink-baby-rgkuc4
