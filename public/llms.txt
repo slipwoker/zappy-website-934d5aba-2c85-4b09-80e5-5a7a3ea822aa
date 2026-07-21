@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 5**
+**Total active products: 6**
+
+### TE AMO BLACK
+https://te-amo.zappy5.app/product/te-amo-black-68ja4x
+- Price: 149.00 ILS
+- Availability: In stock
+- SKU: 6
+- Brand: TE AMO
+- Description: זמין במידות:S, M, L, XL, 2XL, 3XL כולל משלוח לנקודת איסוף
+- Image: https://te-amo.zappy5.app/assets/product-1784665853626-yfm35.webp
 
 ### TE AMO BLUE BABY
 https://te-amo.zappy5.app/product/te-amo-blue-baby-ch9xic
