@@ -4761,6 +4761,17 @@ TE AMO - כי הסטייל שלך חשוב לנו.
 
 ## Product Catalog
 
+### TE AMO WHITE
+URL: https://te-amo.zappy5.app/product/te-amo-white-4i5mqv
+Price: 149.00 ILS
+Availability: In stock
+SKU: 4
+Brand: TE AMO
+
+חולצת המותג
+
+---
+
 ### ANGEL OF NO CRY
 URL: https://te-amo.zappy5.app/product/angel-of-no-cry-oo5dfi
 Price: 139.00 ILS

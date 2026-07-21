@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 3**
+**Total active products: 4**
+
+### TE AMO WHITE
+https://te-amo.zappy5.app/product/te-amo-white-4i5mqv
+- Price: 149.00 ILS
+- Availability: In stock
+- SKU: 4
+- Brand: TE AMO
+- Description: זמין במידות: S, M, L, XL, 2XL, 3XL כולל משלוח לנקודת איסוף
+- Image: https://te-amo.zappy5.app/assets/product-1784665314958-1vfef7.webp
 
 ### ANGEL OF NO CRY
 https://te-amo.zappy5.app/product/angel-of-no-cry-oo5dfi
